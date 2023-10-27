@@ -5,9 +5,8 @@
   [![NPM Version][npm-version-image]][npm-url]
   [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
   [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
-
-```js
 This is a Express js repo
+```js
 
 const express = require('express')
 const app = express()
